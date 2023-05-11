@@ -1,0 +1,16 @@
+{
+  "Tasks Data": [
+    {
+      "countryName" : "UAE",
+      "currency" : "AED"
+    },
+      {
+      "countryName" : "Oman",
+      "currency" : "OMR"
+    },
+    {
+      "countryName" : "Jordan",
+      "currency" : "JOD"
+    }
+  ]
+}
