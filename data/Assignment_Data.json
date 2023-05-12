@@ -1,0 +1,34 @@
+{
+  "Tasks Data": [
+    {
+      "countryName" : "KSA",
+      "currency" : "SAR",
+      "firstPackage" : "LITE",
+      "secondPackage" : "CLASSIC",
+      "thirdPackage" : "PREMIUM",
+      "LitePrice" : "15",
+      "ClassicPrice" : "25",
+      "PremiumPrice" : "60"
+    },
+      {
+        "countryName" : "Bahrain",
+        "currency" : "BHD",
+        "firstPackage" : "LITE",
+        "secondPackage" : "CLASSIC",
+        "thirdPackage" : "PREMIUM",
+        "LitePrice" : "2",
+        "ClassicPrice" : "3",
+        "PremiumPrice" : "6"
+    },
+    {
+      "countryName" : "Kuwait",
+      "currency" : "KWD",
+      "firstPackage" : "LITE",
+      "secondPackage" : "CLASSIC",
+      "thirdPackage" : "PREMIUM",
+      "LitePrice" : "1.2",
+      "ClassicPrice" : "2.5",
+      "PremiumPrice" : "4.8"
+    }
+  ]
+}
